@@ -56,6 +56,6 @@ I believe that I am done with this project unless you have a proposal for improv
 
 ## Author
 
-- Website - [https://frontend-mentor-amber.vercel.app/](https://frontend-mentor-amber.vercel.app/)
+- Website - [https://frontend-portfolio-amber.vercel.app/](https://frontend-portfolio-amber.vercel.app/)
 - Frontend Mentor - [@njeruthuo](https://www.frontendmentor.io/profile/njeruthuo)
 - Twitter - [@njeru19_njeru](https://www.twitter.com/yourusername)
