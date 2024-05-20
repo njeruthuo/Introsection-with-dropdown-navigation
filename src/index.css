@@ -35,7 +35,8 @@ p {
   @apply hover:cursor-pointer hidden sm:flex space-x-2 place-items-center;
 }
 
-.dropdowns img, .myImg {
+.dropdowns img,
+.myImg {
   @apply w-[15px] h-[10px];
 }
 
